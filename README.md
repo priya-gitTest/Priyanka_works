@@ -6,9 +6,8 @@
 BSc, BCA, MCA
 
 ## Projects
- -[LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
- 
- -[Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/)
+ - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
+ - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/)
 
 
 ## [Trainings](/Trainings.md)
