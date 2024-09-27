@@ -12,4 +12,4 @@ BSc, BCA, MCA
 
 ## [Trainings](/Trainings.md)
 
-## [Conferences/Meetups](/conferences_meetups.md)
+## [Conferences/Meetups](/Conferences_Meetups.md)
