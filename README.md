@@ -5,3 +5,6 @@ Data Enthusiast/ Data Management Professional
 BSc, BCA, MCA
 
 ### Projects
+
+
+### [Trainings](/Trainings.md)
