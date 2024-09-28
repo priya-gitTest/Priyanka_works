@@ -8,6 +8,15 @@ BSc, BCA, MCA
 ## Projects
  - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
  - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/)
+ - [CoreTrustSeal Application Management Tool](https://amt.coretrustseal.org/)
+ - PID, RDA related activities
+ - [OH-SMART](https://ohsmart.datastations.nl/)
+ - Data Management for following Studies
+    - [Umbrella Study](https://www.umcutrecht.nl/nl/wetenschappelijk-onderzoek/umbrella)
+    - [LIMA](https://www.umcutrecht.nl/nl/wetenschappelijk-onderzoek/lima-studie)
+    - [ORNAMENT-Study](https://www.onderzoekbijkanker.nl/trials-zoeken/trial/971/ornament-studie-borstkanker.html)
+ - Data Management for other studies (PRESENT, VERTICAL etc), POC, Product evaluations
+ - 
 
 
 ## [Trainings](/Trainings.md)
