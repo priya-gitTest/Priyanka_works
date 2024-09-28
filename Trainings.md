@@ -5,4 +5,7 @@
 - [Medical Image Processing in Python workshop: pilot version by eScience Center](https://www.esciencecenter.nl/event/pilot-medical-image-processing/)
 
 
+## June 2024
+- [The Dutch Clinical NLP Workshop](https://clinicalnlp.nl/)
+
 [<<Back](/README.md)
