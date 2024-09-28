@@ -18,6 +18,7 @@ BSc, BCA, MCA
     - [FLAME and hypo-FLAME](https://www.avl.nl/nieuwsberichten/2021/bestralings-boost-verlaagt-kans-op-terugkeer-prostaatkanker/)
  - Data Management for other studies (PRESENT, VERTICAL etc), POC, Product evaluations
  - POC on Archiving workflow with Archivematica and [Dataverse](https://dataverse.nl/dataverse/UMCU)
+ - POC and eventual usage for [CASTOR EDC](https://data.castoredc.com/)
 
 
 ## [Trainings](/Trainings.md)
