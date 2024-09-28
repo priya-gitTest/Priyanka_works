@@ -1,6 +1,6 @@
 # Priyanka | Data Enthusiast/ Data Management Professional, CDMP, Prince2 foundation
 
-### Skills | Python, SQL, Project and Data Management
+### Skills | Python, SQL, Project and Data Management , Software Research and Analysis
 
 ## Education
 BSc, BCA, MCA
