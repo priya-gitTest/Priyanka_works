@@ -16,6 +16,8 @@ BSc, BCA, MCA
     - [LIMA](https://www.umcutrecht.nl/nl/wetenschappelijk-onderzoek/lima-studie)
     - [ORNAMENT-Study](https://www.onderzoekbijkanker.nl/trials-zoeken/trial/971/ornament-studie-borstkanker.html)
     - [FLAME and hypo-FLAME](https://www.avl.nl/nieuwsberichten/2021/bestralings-boost-verlaagt-kans-op-terugkeer-prostaatkanker/)
+    - [PECTORALIS](https://www.kanker.nl/trials/1113-pectoralis-studie-hoofd-halskanker-keelkanker-strottenhoofdkanker)
+
  - Data Management for other studies (PRESENT, VERTICAL etc), POC, Product evaluations
  - POC on Archiving workflow with Archivematica and [Dataverse](https://dataverse.nl/dataverse/UMCU)
  - POC and eventual usage for [CASTOR EDC](https://data.castoredc.com/)
