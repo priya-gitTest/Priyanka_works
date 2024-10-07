@@ -5,5 +5,6 @@
 - 
 
 ### October 2024
-- Health-RI 2024
+- [Health-RI Conference 2024](https://www.health-ri.nl/en/events/trusting-forward-9th-health-ri-conference-jaarbeurs-utrecht)
+  
 [<<Back](/README.md)
