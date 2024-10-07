@@ -21,7 +21,7 @@ BSc, BCA, MCA
  - Data Management for other studies (PRESENT, VERTICAL etc), POC, Product evaluations
  - POC on Archiving workflow with Archivematica and [Dataverse](https://dataverse.nl/dataverse/UMCU)
  - POC and eventual usage for [CASTOR EDC](https://data.castoredc.com/)
-
+- and a lot of software development....
 
 ## [Trainings](/Trainings.md)
 
