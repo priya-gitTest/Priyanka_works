@@ -2,12 +2,14 @@
 
 ### Skills | Python, SQL, Project and Data Management , Software Research and Analysis
 
+[ORCID](https://orcid.org/0000-0002-6844-6493)
+
 ## Education
 BSc, BCA, MCA
 
 ## Projects
  - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
- - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/)
+ - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Gitrepo](https://github.com/AmsterdamUMC/FDP_AMS)
  - [CoreTrustSeal Application Management Tool](https://amt.coretrustseal.org/)
  - PID, RDA related activities
  - [OH-SMART](https://ohsmart.datastations.nl/)
