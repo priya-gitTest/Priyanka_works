@@ -9,7 +9,7 @@ BSc, BCA, MCA
 
 ## Projects
  - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
- - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Gitrepo](https://github.com/AmsterdamUMC/FDP_AMS)
+ - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Git-repo](https://github.com/AmsterdamUMC/FDP_AMS/tree/myDRE)
  - [CoreTrustSeal Application Management Tool](https://amt.coretrustseal.org/)
  - PID, RDA related activities
  - [OH-SMART](https://ohsmart.datastations.nl/)
