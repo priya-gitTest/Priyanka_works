@@ -1,4 +1,4 @@
-# Priyanka | Data Enthusiast/ Data Management Professional, CDMP, Prince2 foundation
+# Priyanka | Data + Project Management Professional, CDMP, Prince2 foundation, Research Software Consultant
 
 ### Skills | Python, SQL, Project and Data Management , Software Research and Analysis
 
