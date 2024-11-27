@@ -1,6 +1,9 @@
 ### Trainings
 
 ## November 2024
+- Data spaces: experience from the European Health and Common Energy data spaces' data.europa academy
+  ![image](https://github.com/user-attachments/assets/03fa225c-3308-4c1c-a7fa-e9a60ed196d0)
+
 - Metadata Conference*
 - 
   
