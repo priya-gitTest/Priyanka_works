@@ -8,7 +8,7 @@
 BSc, BCA, MCA
 
 ## Projects
- - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Git-repo](https://github.com/AmsterdamUMC/FDP_AMS/tree/myDRE), Presentation : [Addressing Metadata Quality and Interoperability Challenges in FAIR Data Points]()
+ - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Git-repo](https://github.com/AmsterdamUMC/FDP_AMS/tree/myDRE), Presentation : [Addressing Metadata Quality and Interoperability Challenges in FAIR Data Points](https://github.com/priya-gitTest/Priyanka_works/blob/main/assets/pdf/Outstanding%20Challenges%20in%20Federated%20Data%20Reuse_%20Data%20Quality%20in%20FAIR%20Data%20Points_v1.pdf)
  - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
  - [CoreTrustSeal Application Management Tool](https://amt.coretrustseal.org/)
  - PID, RDA related activities
