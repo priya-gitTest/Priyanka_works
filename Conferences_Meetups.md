@@ -1,5 +1,8 @@
 ## Conferences / Meetups
 
+### January 2025
+- [DuckCon #6](https://duckdb.org/events/2025/01/31/duckcon6/)
+
 ### November 2024
 - [Helmholtz Metadata Collaboration (HMC) 2024](https://events.hifis.net/event/1627/)
   
