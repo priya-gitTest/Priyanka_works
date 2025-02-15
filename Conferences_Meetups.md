@@ -9,5 +9,8 @@
 
 ### August 2024
 - [PyCon PL](https://pl.pycon.org/2024/en/)
+
+### 2018
+- [The Worldwide Pandas Documentation Sprint](https://numfocus.org/blog/worldwide-pandas-sprint)
     
 [<<Back](/README.md)
