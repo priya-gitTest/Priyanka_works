@@ -2,6 +2,7 @@
 
 ### January 2025
 - [DuckCon #6](https://duckdb.org/events/2025/01/31/duckcon6/)
+- [Software Heritage Symposium 2025- Online](https://www.unesco.org/en/articles/software-heritage-2025-symposium-and-summit)
 
 ### November 2024
 - [Helmholtz Metadata Collaboration (HMC) 2024](https://events.hifis.net/event/1627/)
