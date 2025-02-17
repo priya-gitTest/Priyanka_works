@@ -1,7 +1,7 @@
 ## Conferences / Meetups
 
 ### February 2025
--[Webinar : Introduction to Multi-Omics Analysis with FDCube](https://github.com/Xomics/FAIRDataCube/wiki)
+- [Webinar : Introduction to Multi-Omics Analysis with FDCube](https://github.com/Xomics/FAIRDataCube/wiki)
 
 ### January 2025
 - [DuckCon #6](https://duckdb.org/events/2025/01/31/duckcon6/)
