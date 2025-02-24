@@ -4,6 +4,7 @@
 - [Databricks Datawarehousing Bootcamp](https://events.databricks.com/datawarehousing-bootcamp-feb/)
 - [Webinar : Introduction to Multi-Omics Analysis with FDCube](https://github.com/Xomics/FAIRDataCube/wiki)
 - [EVERSE Network Launch](https://indico.cern.ch/e/eversenetworklaunch)
+- [Evaluation of Tools & Services to improve the quality of research software workshop](https://github.com/EVERSE-ResearchSoftware/MS8/tree/main/Workshop/Slides)
 
 ### January 2025
 - [DuckCon #6](https://duckdb.org/events/2025/01/31/duckcon6/)
