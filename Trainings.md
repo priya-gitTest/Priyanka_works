@@ -10,7 +10,12 @@
 
 - Metadata Conference*
 - [NL Escience Center : AI-assisted coding with Codeium](https://esciencecenter-digital-skills.github.io/2024-11-25-ds-genai/)
-  
+
+## September 2024  
+- [NL Escience Center : Medical Image Processing](https://github.com/esciencecenter-digital-skills/medical-image-processing-materials)
+  ![image](https://github.com/user-attachments/assets/c88ad840-6f46-4f92-afde-8bc87befe350)
+
+
 ## October 2024
 - OpenScience Fall Festival*
 - [ENCR Workshop Software and AI tools to Cancer Registries](https://encr.eu/workshop/encr-workshop-software-and-ai-tools-crs-18-25-october-2024-online) ![image](https://github.com/user-attachments/assets/aba2e582-c908-4c1a-ae22-51b5de250e3d)
