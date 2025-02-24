@@ -14,7 +14,7 @@
 ## September 2024  
 - [NL Escience Center : Medical Image Processing](https://github.com/esciencecenter-digital-skills/medical-image-processing-materials)
   ![image](https://github.com/user-attachments/assets/c88ad840-6f46-4f92-afde-8bc87befe350)
-
+- [Medical Image Processing in Python workshop: pilot version by eScience Center](https://www.esciencecenter.nl/event/pilot-medical-image-processing/)
 
 ## October 2024
 - OpenScience Fall Festival*
@@ -23,9 +23,6 @@
 - [NASA Open Science](https://www.credly.com/badges/28b0fbee-da64-451a-9cdc-5a999b0e66d0/public_url)
 - Data Contracts Workshop: SODA
 <img width="300" alt="Data Contracts Workshop_Utrecht" src="https://github.com/user-attachments/assets/e3483959-1d89-4957-be18-cd88ff18e93a">
-
-## August 2024
-- [Medical Image Processing in Python workshop: pilot version by eScience Center](https://www.esciencecenter.nl/event/pilot-medical-image-processing/)
 
 
 ## June 2024
