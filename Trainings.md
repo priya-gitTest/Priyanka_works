@@ -9,7 +9,7 @@
   ![image](https://github.com/user-attachments/assets/03fa225c-3308-4c1c-a7fa-e9a60ed196d0)
 
 - Metadata Conference*
-- 
+- [NL Escience Center : AI-assisted coding with Codeium](https://esciencecenter-digital-skills.github.io/2024-11-25-ds-genai/)
   
 ## October 2024
 - OpenScience Fall Festival*
