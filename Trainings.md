@@ -1,5 +1,8 @@
 ### Trainings
 
+## February 2025
+![image](https://github.com/user-attachments/assets/ad71cdef-9a54-4e1d-8839-829178e0aaee)
+
 ## January 2025
 - The Interoperable Europe Act : Introduction
 ![image](https://github.com/user-attachments/assets/900dda01-d294-40ee-a91f-22c25616cbfa)
