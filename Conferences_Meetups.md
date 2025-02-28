@@ -1,6 +1,7 @@
 ## Conferences / Meetups
 
 ### February 2025
+- [FAIRfest](https://fair-impact.eu/events/fair-impact-events/fairfest-celebrating-advancements-fair-solutions-eosc) - Day #2
 - [Databricks Datawarehousing Bootcamp](https://events.databricks.com/datawarehousing-bootcamp-feb/)
 - [Webinar : Introduction to Multi-Omics Analysis with FDCube](https://github.com/Xomics/FAIRDataCube/wiki)
 - [EVERSE Network Launch](https://indico.cern.ch/e/eversenetworklaunch)
