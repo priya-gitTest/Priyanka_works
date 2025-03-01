@@ -1,6 +1,8 @@
 ### Trainings
 
 ## February 2025
+![image](https://github.com/user-attachments/assets/ccc351c8-08b3-4ce7-ba3f-2e65b160a675)
+
 ![image](https://github.com/user-attachments/assets/ad71cdef-9a54-4e1d-8839-829178e0aaee)
 
 ## January 2025
