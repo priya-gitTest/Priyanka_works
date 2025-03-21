@@ -2,6 +2,7 @@
 
 ### March 2025
 - [graphsummit Amsterdam](https://neo4j.com/graphsummit/amsterdam-2025/)
+- [Knowledge Graphs, Linked Data en Standaarden](https://www.pldn.nl/wiki/Knowledge_Graphs,_Linked_Data_%26_Standaarden_%E2%80%93_5_maart_2025,_Beeld_en_Geluid,_Hilversum)
 ### February 2025
 - [FAIRfest](https://fair-impact.eu/events/fair-impact-events/fairfest-celebrating-advancements-fair-solutions-eosc) - Day #2
 - [Databricks Datawarehousing Bootcamp](https://events.databricks.com/datawarehousing-bootcamp-feb/)
