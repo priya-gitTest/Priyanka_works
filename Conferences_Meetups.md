@@ -1,5 +1,7 @@
 ## Conferences / Meetups
 
+### March 2025
+- [graphsummit Amsterdam](https://neo4j.com/graphsummit/amsterdam-2025/)
 ### February 2025
 - [FAIRfest](https://fair-impact.eu/events/fair-impact-events/fairfest-celebrating-advancements-fair-solutions-eosc) - Day #2
 - [Databricks Datawarehousing Bootcamp](https://events.databricks.com/datawarehousing-bootcamp-feb/)
