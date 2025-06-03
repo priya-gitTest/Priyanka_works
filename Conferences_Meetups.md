@@ -4,6 +4,7 @@
  -[The Knowledge Graph Conference](https://www.knowledgegraph.tech/) --REMOTE
 ![image](https://github.com/user-attachments/assets/0d75606a-61ed-4ca8-8f04-7088c85e8269)
 Fav Talk : Choosing an Ontology
+- Resource : https://hub.knowledgegraph.tech/
 
 ### March 2025
 - [OSPOlogyLive Amsterdam](https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-amsterdam/)
