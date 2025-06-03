@@ -1,5 +1,9 @@
 ## Conferences / Meetups
 
+### May 2025
+ -[The Knowledge Graph Conference](https://www.knowledgegraph.tech/)
+![image](https://github.com/user-attachments/assets/0d75606a-61ed-4ca8-8f04-7088c85e8269)
+
 ### March 2025
 - [OSPOlogyLive Amsterdam](https://community.linuxfoundation.org/events/details/lfhq-ospology-european-chapter-presents-ospologylive-amsterdam/)
 - [graphsummit Amsterdam](https://neo4j.com/graphsummit/amsterdam-2025/)
