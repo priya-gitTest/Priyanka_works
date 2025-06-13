@@ -1,9 +1,14 @@
 ### Trainings
 
-## February 2025
+## June 2025 
+Structuring and Executing High-Impact Literature Reviews
+![22324064811652](https://github.com/user-attachments/assets/d54315eb-958d-4cc4-ba54-25c01e9a036d)
+
+##February 2025
 ![image](https://github.com/user-attachments/assets/ccc351c8-08b3-4ce7-ba3f-2e65b160a675)
 
 ![image](https://github.com/user-attachments/assets/ad71cdef-9a54-4e1d-8839-829178e0aaee)
+
 
 ## January 2025
 - The Interoperable Europe Act : Introduction
