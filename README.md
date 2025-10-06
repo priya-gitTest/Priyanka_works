@@ -8,7 +8,7 @@
 BSc, BCA, MCA, CDMP
 
 ## Projects
- - DRA Course (TTT) : [2024-08_Train-the-Trainer_4_Delft](https://osf.io/ydpu7/)
+ - DRA Course (TTT) : [2024-08_Train-the-Trainer_4_Delft](https://osf.io/ydpu7/), [Python-Packaging-with-Pixi](https://priya-gittest.github.io/Python-Packaging-with-Pixi/)
  - RSECon25
  - 
  - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Git-repo](https://github.com/AmsterdamUMC/FDP_AMS/tree/myDRE), Presentation : [Addressing Metadata Quality and Interoperability Challenges in FAIR Data Points](https://github.com/priya-gitTest/Priyanka_works/blob/main/assets/pdf/Outstanding%20Challenges%20in%20Federated%20Data%20Reuse_%20Data%20Quality%20in%20FAIR%20Data%20Points_v1.pdf)
