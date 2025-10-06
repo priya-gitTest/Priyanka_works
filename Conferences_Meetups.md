@@ -6,6 +6,8 @@
 
 ### August 2025
 - [AI_dev: Open Source GenAI & ML Summit Europe 2025](https://events.linuxfoundation.org/ai-dev-europe/)
+  <img width="825" height="715" alt="image" src="https://github.com/user-attachments/assets/73419da6-9b58-43c3-bf92-7b430a72d00b" />
+
   
 ### May 2025
  -[The Knowledge Graph Conference](https://www.knowledgegraph.tech/) --REMOTE
