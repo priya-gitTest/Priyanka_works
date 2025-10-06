@@ -1,5 +1,8 @@
 ### Trainings
 
+## September 2025 
+- [Ally skills training by OLS](https://we-are-ols.org/consulting/ally-skills/) - Online
+
 ## June 2025 
 Structuring and Executing High-Impact Literature Reviews
 ![22324064811652](https://github.com/user-attachments/assets/d54315eb-958d-4cc4-ba54-25c01e9a036d)
