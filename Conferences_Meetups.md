@@ -1,10 +1,12 @@
 ## Conferences / Meetups
 
 ### September 2025
-[RSECons25](https://rsecon25.society-rse.org/)
+- [RSECons25](https://rsecon25.society-rse.org/)
 <img width="1127" height="822" alt="image" src="https://github.com/user-attachments/assets/a577f633-9b2c-4218-8991-d86f562e9f95" />
 
-
+### August 2025
+- [AI_dev: Open Source GenAI & ML Summit Europe 2025](https://events.linuxfoundation.org/ai-dev-europe/)
+  
 ### May 2025
  -[The Knowledge Graph Conference](https://www.knowledgegraph.tech/) --REMOTE
 ![image](https://github.com/user-attachments/assets/0d75606a-61ed-4ca8-8f04-7088c85e8269)
