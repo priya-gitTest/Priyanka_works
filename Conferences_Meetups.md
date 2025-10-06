@@ -1,7 +1,7 @@
 ## Conferences / Meetups
 
 ### September 2025
-- [TRE Community Conference 22-24 September 202()5](https://dareuk.org.uk/community-group-events/tre-community-conference-22-24-september-2025/)  : Online
+- [TRE Community Conference 22-24 September 2025](https://dareuk.org.uk/community-group-events/tre-community-conference-22-24-september-2025/)  : Online
 - [RSECons25](https://rsecon25.society-rse.org/)
 <img width="1127" height="822" alt="image" src="https://github.com/user-attachments/assets/a577f633-9b2c-4218-8991-d86f562e9f95" />
 
