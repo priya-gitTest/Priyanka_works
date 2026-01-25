@@ -1,5 +1,12 @@
 ### Trainings
 
+## January 2026
+<img width="965" height="684" alt="image" src="https://github.com/user-attachments/assets/70601088-45df-4f08-8976-4527f010f7c2" />
+
+## December 2025
+<img width="977" height="690" alt="image" src="https://github.com/user-attachments/assets/a258daba-ddde-4a61-973a-08b0acac938c" />
+[Open Source AI](https://www.spiraltrain.nl/infosheets/infosheet_open-source-ai_17424.pdf)
+
 ## September 2025 
 - [Ally skills training by OLS](https://we-are-ols.org/consulting/ally-skills/) - Online
 
