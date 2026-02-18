@@ -1,6 +1,6 @@
-# Priyanka | Data + Project Management Professional, CDMP, Prince2 foundation, Research Software Consultant
+# Priyanka | AI, Data + Project Management Professional, CDMP, Prince2 foundation, Research Software Consultant
 
-### Skills | Python, SQL, Project and Data Management , Software Research and Analysis, Data Integration, (Semantic) Metadata Management
+### Skills | AI, Python, SQL, Project and Data Management , Software Research and Analysis, Data Integration, (Semantic) Metadata Management
 
 [ORCID](https://orcid.org/0000-0002-6844-6493)
 
