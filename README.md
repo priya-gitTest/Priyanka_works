@@ -8,10 +8,9 @@
 BSc, BCA, MCA, CDMP
 
 ## Projects
- - DRA Course (TTT) : [2024-08_Train-the-Trainer_4_Delft](https://osf.io/ydpu7/), [Python-Packaging-with-Pixi](https://priya-gittest.github.io/Python-Packaging-with-Pixi/)
- - RSECon25
  - Co-Chair [Actionable FAIR4RS Task Force](https://www.researchsoft.org/tf-actionable-fair4rs/)
- - 
+ - DRA Course (TTT) : [2024-08_Train-the-Trainer_4_Delft](https://osf.io/ydpu7/), [Python-Packaging-with-Pixi](https://priya-gittest.github.io/Python-Packaging-with-Pixi/)
+ 
  - [Fair Data Point Amsterdam UMC Implementation](https://www.fairdatapoint.org/) [Git-repo](https://github.com/AmsterdamUMC/FDP_AMS/tree/myDRE), Presentation : [Addressing Metadata Quality and Interoperability Challenges in FAIR Data Points](https://github.com/priya-gitTest/Priyanka_works/blob/main/assets/pdf/Outstanding%20Challenges%20in%20Federated%20Data%20Reuse_%20Data%20Quality%20in%20FAIR%20Data%20Points_v1.pdf)
  - [Addressing Metadata Quality and Interoperability Challenges in FAIR Data Points](https://www.lifes.institute/post/outstanding-challenges-in-federated-data-reuse)
  - [LDCC 2.0](https://www.nwo.nl/en/projects/ict001ldcc2013)
