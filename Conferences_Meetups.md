@@ -1,5 +1,8 @@
 ## Conferences / Meetups
 ### March 2026
+[Amsterdam x SheBuilds on Lovable for International Women's Day]
+
+### Feb 2026
 Mentoring @ [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/?eventOrigin=group_events_list) 
 ### September 2025
 - [TRE Community Conference 22-24 September 2025](https://dareuk.org.uk/community-group-events/tre-community-conference-22-24-september-2025/)  : Online
