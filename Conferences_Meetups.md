@@ -1,6 +1,7 @@
 ## Conferences / Meetups
 ### March 2026
 [Amsterdam x SheBuilds on Lovable for International Women's Day]
+<img width="1127" height="822" alt="image" src="https://github.com/priya-gitTest/Priyanka_works/blob/main/assets/img/DSC01892.jpg" />
 
 ### Feb 2026
 Mentoring @ [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/?eventOrigin=group_events_list) 
