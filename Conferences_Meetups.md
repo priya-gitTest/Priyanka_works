@@ -1,5 +1,6 @@
 ## Conferences / Meetups
-
+### March 2026
+Mentor @ [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/?eventOrigin=group_events_list) 
 ### September 2025
 - [TRE Community Conference 22-24 September 2025](https://dareuk.org.uk/community-group-events/tre-community-conference-22-24-september-2025/)  : Online
 - [RSECons25](https://rsecon25.society-rse.org/)
