@@ -7,8 +7,10 @@
 Mentoring @ [MLOps Open Source Sprint at Adyen](https://www.meetup.com/pyladiesams/events/313200903/?eventOrigin=group_events_list) 
 
 ### Jan 2026
-Attended : AI Strategy & Sovereignty Special - MLOps Community Amsterdam
+Attended : [AI Strategy & Sovereignty Special - MLOps Community Amsterdam](https://luma.com/vqp30xyf?tk=BhD5lk)
 
+### Nov 2025
+Attended : [Agents in Production - MLOps x Prosus](https://luma.com/agentsinprod?tk=nGElMH)
 
 ### September 2025
 - [TRE Community Conference 22-24 September 2025](https://dareuk.org.uk/community-group-events/tre-community-conference-22-24-september-2025/)  : Online
