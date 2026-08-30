@@ -1,4 +1,9 @@
 ## Conferences / Meetups
+
+### June 2026
+- [apidays Amsterdam](https://www.apidays.global/events/amsterdam)
+-  [DuckCon #7](https://duckdb.org/events/2026/06/24/duckcon7/)
+
 ### March 2026
 - [Amsterdam x SheBuilds on Lovable for International Women's Day](https://luma.com/o66hkioe?tk=REiOlM)
 <img style="max-width:600px; width:100%; height:auto;" alt="image" src="https://raw.githubusercontent.com/priya-gitTest/Priyanka_works/main/assets/img/DSC01892.jpg" />
